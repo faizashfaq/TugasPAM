@@ -15,7 +15,7 @@ Proyek aplikasi berbasis **Kotlin Multiplatform (KMP)** untuk memenuhi tugas mat
 
 | Desktop App | Android App |
 | :---: | :---: |
-| ![Desktop](screenshots/desktop.png) | ![Android](screenshots/android.png) |
+| ![Desktop](screenshot/desktop.png) | ![Android](screenshot/android.png) |
 
 ---
 
