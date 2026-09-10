@@ -1,8 +1,5 @@
-# MyFirstKMPApp - Kotlin Multiplatform
-
-Proyek aplikasi berbasis **Kotlin Multiplatform (KMP)** untuk memenuhi tugas mata kuliah Pengembangan Aplikasi Bergerak (PAM). Aplikasi ini mendukung platform Desktop (JVM), Android, dan iOS.
-
----
+# MyFirstKMPApp - Tugas 1 Pengembangan Aplikasi Mobile
+[text](vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/code/electron-browser/workbench/workbench.html)
 
 ## Identitas Mahasiswa
 * **Nama**: Muhammad Faiz Ashfaq
